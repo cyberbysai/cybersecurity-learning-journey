@@ -1,0 +1,69 @@
+# TryHackMe: Introduction to Cyber Security
+
+## Overview
+
+This document records my learning from the Introduction to Cyber Security module in the TryHackMe Pre Security learning path.
+
+The module introduced me to cybersecurity, the differences between offensive and defensive security, and career opportunities in the cybersecurity industry.
+
+- **Platform:** TryHackMe
+- **Learning Path:** Pre Security
+- **Module:** Introduction to Cyber Security
+- **Status:** Completed
+
+## Learning Objectives
+
+- Understand the fundamentals of cybersecurity.
+- Learn the difference between offensive and defensive security.
+- Explore cybersecurity career opportunities.
+- Understand why organizations need to protect their systems and data.
+
+## In this module we have 4 rooms they are :
+
+### 1.Offensive Security Intro 
+Offensive security involves testing systems and applications to identify security weaknesses.
+
+Security professionals conduct these activities with proper authorization to help organizations improve their security.
+
+### 2. Defensive Security
+
+Defensive security focuses on protecting systems, monitoring activity, detecting threats, and responding to security incidents.
+
+SOC analysts commonly work in this area by investigating alerts and helping organizations identify suspicious activity.
+
+### 3. Cybersecurity Career Opportunities
+
+Cybersecurity offers different career paths, including:
+
+- SOC Analyst
+- Security Analyst
+- Penetration Tester
+- Incident Response Analyst
+- Security Engineer
+
+My current career goal is to develop the skills required for an entry-level SOC Analyst position.
+
+## Practical Learning
+
+I completed the rooms and exercises associated with this module.
+
+This section will be expanded with specific exercise details, tools used, observations, and lessons learned from my completed activities.
+
+## Key Takeaways
+
+- Cybersecurity involves protecting systems, networks, and information.
+- Offensive and defensive security have different but complementary objectives.
+- Authorized security testing helps identify weaknesses before attackers can exploit them.
+- Defensive security includes monitoring, threat detection, and incident response.
+- Cybersecurity offers multiple career paths with different responsibilities.
+
+## Career Relevance
+
+This module provided foundational knowledge for my continued cybersecurity training.
+
+I plan to build on these concepts while studying SOC operations, security monitoring, alert investigation, and incident response.
+
+---
+
+**Learning status:** Completed  
+**Learning platform:** TryHackMe
