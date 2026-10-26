@@ -71,15 +71,15 @@
 
 <p align="center">
   <a href="https://github.com/cyberbysai" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://tryhackme.com/p/bsaikumar?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=3418abddda08&utm_source=copy&sharerId=688e0d97fa6519751aee7037" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-Profile-88CC00?style=for-the-badge&logo=tryhackme&logoColor=white" />
+    <img src="https://img.shields.io/badge/TryHackMe-88CC00?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://profile.hackthebox.com/profile/019f50c6-3463-7285-ae1c-6efa15a31597?utm_medium=copy_url" target="_blank">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
   </a>
 </p>
 
