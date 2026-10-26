@@ -2,44 +2,37 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=0,20,40,60,100&height=180&section=header&text=Hi%20I'm%20Sai%20Kumar%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
-<h3 align="center">
-  🛡️ Aspiring SOC Analyst | Cybersecurity Learner | Blue Team Enthusiast 🛡️
-</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Growing-blue?style=for-the-badge&logo=appveyor" />
-  <img src="https://img.shields.io/badge/Focus-SOC%20Operations-red?style=for-the-badge&logo=security-scorecard" />
-  <img src="https://img.shields.io/badge/Target-Junior%20SecOps-success?style=for-the-badge&logo=letsencrypt" />
+  <img src="https://img.shields.io/badge/🛡️_SOC_Analyst-In_Training-0ea5e9?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blue_Team-Enthusiast-22c55e?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Threat_Detection-ef4444?style=for-the-badge&logo=appveyor&logoColor=white" />
 </p>
 
 ---
 
 ### 💻 About Me
 
-Welcome to my cybersecurity learning journey! I am actively developing my technical foundation through hands-on training, practical lab environments, and continuous upskilling. My primary objective is mastering **Security Operations Center (SOC)** workflows, threat detection methodologies, and incident response.
+<div align="justify">
+Welcome to my cybersecurity learning journey! I am actively developing my technical foundation through hands-on training, practical lab environments, and continuous upskilling. My primary objective is mastering <b>Security Operations Center (SOC)</b> workflows, threat detection methodologies, and incident response.
+</div>
 
 ---
 
 ### 🎯 Current Learning Focus
 
-<table>
-  <tr>
-    <td width="50%">
-      <ul>
-        <li><b>SOC Fundamentals:</b> Log analysis, SIEM, and alerting.</li>
-        <li><b>Networking & Protocols:</b> Deep dives into traffic analysis.</li>
-        <li><b>Threat Detection:</b> Spotting malicious IOCs and anomalies.</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <ul>
-        <li><b>Security Event Analysis:</b> Triage and false-positive filtering.</li>
-        <li><b>Incident Response:</b> Structured containment & remediation.</li>
-        <li><b>Hands-on Labs:</b> Real-world simulation and troubleshooting.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/SOC_Fundamentals-Log_Analysis_%26_SIEM-1e293b?style=flat-square&logo=siemens&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Networking-Traffic_Analysis-1e293b?style=flat-square&logo=wireshark&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Threat_Detection-IOCs_%26_Anomalies-1e293b?style=flat-square&logo=pandatube&logoColor=38bdf8" />
+  <br>
+  <img src="https://img.shields.io/badge/Event_Analysis-Triage_%26_Filtering-1e293b?style=flat-square&logo=cisco&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Incident_Response-Containment_%26_Remediation-1e293b?style=flat-square&logo=letsencrypt&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Labs-Simulations_%26_Troubleshooting-1e293b?style=flat-square&logo=linux&logoColor=38bdf8" />
+</div>
+
+<br>
 
 ---
 
@@ -49,10 +42,10 @@ Welcome to my cybersecurity learning journey! I am actively developing my techni
 
 | Platform | Path / Course | Status |
 | :--- | :--- | :--- |
-| **TryHackMe** | Pre Security | ✅ **Completed** |
-| **TryHackMe** | Cyber Security 101 | ✅ **Completed** |
-| **TryHackMe** | SOC Level 1 | 🔄 **In Progress** |
-| **Hack The Box** | Junior Cybersecurity Analyst | 🔄 **In Progress** |
+| **TryHackMe** | Pre Security | 🟢 **Completed** |
+| **TryHackMe** | Cyber Security 101 | 🟢 **Completed** |
+| **TryHackMe** | SOC Level 1 | 🟡 **In Progress** |
+| **Hack The Box** | Junior Cybersecurity Analyst | 🟡 **In Progress** |
 
 </div>
 
@@ -60,9 +53,8 @@ Welcome to my cybersecurity learning journey! I am actively developing my techni
 
 ### 📂 Repository Breakdown
 
-This repository serves as a centralized logbook of my practical development:
 * 📝 **Technical Notes:** Core concepts, cheat sheets, and command references.
-* 🧪 **Lab Documentation:** Step-by-step documentation of practical exercises.
+* 🧪 **Lab Documentation:** Step-by-step logs of practical hands-on exercises.
 * 🔍 **SOC Investigations:** Simulated triage scenarios and analysis write-ups.
 * 🛡️ **Defensive Projects:** Beginner-friendly security setups and scripts.
 
@@ -70,7 +62,7 @@ This repository serves as a centralized logbook of my practical development:
 
 ### 🚀 Career Goal
 
-> To secure an entry-level **SOC Analyst** or **Junior Cybersecurity Analyst** role where I can contribute to defending organizational assets, analyzing telemetry, and mitigating security threats.
+> **"To secure an entry-level SOC Analyst or Junior Cybersecurity Analyst role where I can defend organizational assets, dissect malicious telemetry, and mitigate cyber threats."**
 
 ---
 
@@ -78,7 +70,7 @@ This repository serves as a centralized logbook of my practical development:
 
 <p align="center">
   <a href="https://github.com/cyberbysai">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
