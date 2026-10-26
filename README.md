@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="cyber-security-soc-banner.png" alt="Sai Kumar - Cyber Security SOC Banner" width="100%">
+  <img src="cyber-security-soc-banner.png" alt="Sai Kumar Banner" width="100%">
 </div>
 
 <h3 align="center">
