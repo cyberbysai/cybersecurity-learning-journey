@@ -1,7 +1,5 @@
 <div align="center">
-   <img src="wide_dark_sleek_cyber_security_themed_digital_ba.png"
-       alt="Sai Kumar - Cyber Security SOC Banner"
-       width="100%">
+  <img src="wide_dark_sleek_cyber_security_themed_digital_ba.png" alt="Sai Kumar - Cyber Security SOC Banner" width="100%">
 </div>
 
 <h3 align="center">
