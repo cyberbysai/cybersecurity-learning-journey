@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor_list=0,5,15,30&height=150&section=header&text=SAI%20KUMAR&fontSize=40&fontColor=38bdf8&fontFamily=monospace&fontWeight=600&animation=fadeIn&stroke=0ea5e9&strokeWidth=2" width="100%" />
+   <img src="wide_dark_sleek_cyber_security_themed_digital_ba.png"
+       alt="Sai Kumar - Cyber Security SOC Banner"
+       width="100%">
 </div>
 
 <h3 align="center">
