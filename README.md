@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="cyber-security-soc-banner.png" alt="Sai Kumar Banner" width="100%">
+<img width="2172" height="724" alt="Sai Kumar Cybersecurity Operations Banner" src="https://github.com/user-attachments/assets/9f51b6f8-4b93-4a87-bf0d-4352e2888b7e" />
 </div>
 
 <h3 align="center">
