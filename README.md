@@ -1,5 +1,5 @@
 <div align="center">
-<img width="2172" height="724" alt="Sai Kumar Cybersecurity Operations Banner" src="https://github.com/user-attachments/assets/9f51b6f8-4b93-4a87-bf0d-4352e2888b7e" />
+  <img width="2172" height="724" alt="Sai Kumar Cybersecurity Operations Banner" src="https://github.com/user-attachments/assets/9f51b6f8-4b93-4a87-bf0d-4352e2888b7e" />
 </div>
 
 <h3 align="center">
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-| Platform | Track / Module | Status |
+| Platform | Path | Status |
 | :--- | :--- | :--- |
 | **TryHackMe** | Pre Security | 🟢 **Completed** |
 | **TryHackMe** | Cyber Security 101 | 🟢 **Completed** |
@@ -70,8 +70,16 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/cyberbysai">
+  <a href="https://github.com/cyberbysai" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://tryhackme.com/p/bsaikumar?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=3418abddda08&utm_source=copy&sharerId=688e0d97fa6519751aee7037" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-243240?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://profile.hackthebox.com/profile/019f50c6-3463-7285-ae1c-6efa15a31597?utm_medium=copy_url" target="_blank">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
   </a>
 </p>
 
