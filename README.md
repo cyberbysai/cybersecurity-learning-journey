@@ -1,3 +1,4 @@
+<img width="985" height="702" alt="Screenshot 2026-10-27 145225" src="https://github.com/user-attachments/assets/1771401a-afeb-4fd6-a80b-7ff09be1fa4d" />
 <div align="center">
   <img width="2172" height="724" alt="Sai Kumar Cybersecurity Operations Banner" src="https://github.com/user-attachments/assets/9f51b6f8-4b93-4a87-bf0d-4352e2888b7e" />
 </div>
@@ -43,7 +44,8 @@
 
 | Platform | Path | Status |
 | :--- | :--- | :--- |
-| **TryHackMe** | Pre Security | 🟢 **Completed** |
+| **TryHackMe** | Pre Security | 🟢 [**Completed**](https://github.com/user-attachments/assets/99faa9f2-50a3-4f8d-8663-0528c9bf7d75
+
 | **TryHackMe** | Cyber Security 101 | 🟢 **Completed** |
 | **TryHackMe** | SOC Level 1 | 🟡 **In Progress** |
 | **Hack The Box** | Junior Cybersecurity Analyst | 🟡 **In Progress** |
