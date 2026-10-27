@@ -12,15 +12,18 @@ This learning path helped me build the fundamental knowledge needed to continue 
 
 ## Modules Completed
 
-### 1. Introduction to Cyber Security
+## 1. Introduction to Cyber Security
+[![Introduction to Cyber Security](https://github.com/user-attachments/assets/66c2e41f-6291-43ae-b917-685c81366f35)]()
+
 Introduction to offensive security, defensive security, and cybersecurity career opportunities.
 
-### 2. Computer Fundamentals
+## 2. Computer Fundamentals
+[![Computer Fundamentals](./images/computer-fundamentals.png)](./computer-fundamentals/README.md)
 Fundamentals of computer hardware, computing, and cloud concepts.
 
-### 3. Operating Systems Basics
+## 3. Operating Systems Basics
+[![Operating Systems Basics](./images/os-basics.png)](./os-basics/README.md)
 Introduction to operating systems, Windows, Linux, graphical interfaces, and command-line interfaces.
-
 ### 4. Software Basics
 Introduction to how software processes data and foundational programming concepts involving Python, JavaScript, and SQL.
 
