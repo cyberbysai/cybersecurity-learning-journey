@@ -21,8 +21,7 @@ This path gave me the essential background needed before moving into more advanc
 ## Modules Completed
 
 ### 1. Introduction to Cyber Security
-[![Introduction to Cyber Security module completion](<img width="1067" height="450" alt="Screenshot 2026-10-29 110817" src="https://github.com/user-attachments/assets/8c19a536-e678-4622-a108-80cd7a67095e" />
-)](pre%20security/01.%20Introduction%20to%20Cyber%20Security.md)
+[![Introduction to Cyber Security module completion](tryhackme/module-images/pre-secuirty/intro-to-cyber.png)](pre%20security/01.%20Introduction%20to%20Cyber%20Security.md)
 
 - What cybersecurity is
 - Cybersecurity career paths
