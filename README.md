@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  <code>🛡️ Aspiring SOC Analyst & Security Researcher</code>
+  <code>🛡️ Aspiring SOC Analyst </code>
 </h3>
 
 <p align="center">
